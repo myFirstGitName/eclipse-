@@ -5,7 +5,7 @@ public class Array {
 		
 	
 	int [] array =new  int[5];
-	
+	//改文件
 	array[0]=1;
 	array[1]=2;
 	array[2]=3;
